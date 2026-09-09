@@ -8,5 +8,5 @@
 /site
 /utils
 .gitignore
-.idea
+.idea/
 .github
