@@ -7,3 +7,6 @@
 /build
 /site
 /utils
+.gitignore
+.idea
+.github
